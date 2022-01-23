@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: white;
+    border: 4px solid blue;
+    border-radius: 10px;
+}
+header a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 2px;
+}
+header img {
+    margin: 1px;
+}
+main h1 {
+    color:blue;
+}
+footer{
+    background-color: royalblue;
+    color: white;
+}
+nav a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+border: 3px solid navy;
+border-radius:10px;
+background-color: blue;
+}
+.pp{
+   background-color: royalblue;
+   border-radius: 10px; 
+}
+h2 {
+   color: blue; 
+}
+.iis {
+    border: 2px solid royalblue;
+    border-radius: 10px;
+}
